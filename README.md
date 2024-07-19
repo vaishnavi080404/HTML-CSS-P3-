@@ -1,1 +1,1 @@
-The Practice folder - is the landing page code
+The Practice folder - is the MAMAEARTH landing page code
